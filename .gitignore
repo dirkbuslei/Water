@@ -9,3 +9,4 @@ dist/*
 
 # allow assets in dist
 !dist/assets/favicon.ico
+/.idea
